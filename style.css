@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    }
+    
+    body{
+        background: linear-gradient(to right, #c3d7df, #5bbebe);
+        background-size: cover;
+    }
+
+    nav{
+    max-width: 900px;
+    margin: auto;
+    background-color: #000000;
+    font-size: 20px;
+    margin-top: 50px;
+    }
+
+    
